@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: ac.leap
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, aws-v2-sdk, gradle, http-client, jdbc-hikari, jib, jooq, kafka, kotest, kotlin, kotlin-application, kotlin-extension-functions, log4j2, multi-tenancy, netty-server, openapi, postgres, readme, shade, testcontainers, yaml]
